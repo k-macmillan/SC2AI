@@ -21,8 +21,6 @@
 *.out
 *.app
 
-build/
-
 *.swp
 
 *.pyc
